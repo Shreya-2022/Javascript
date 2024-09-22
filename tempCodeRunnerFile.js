@@ -1,6 +1,9 @@
-let score = 3
-// console.log(typeof score);
-// console.log(typeof(score));
+let negValue = -CSSMathValue
+// console.log(negaValue)
 
-// let valueInNumber = Number(score)
-// console.log(typeof valueInNumber)
+// console.log(3+3);
+// console.log(3-3);
+// console.log(3/3)
+// console.log(3%3)
+// console.log(3*3)
+// console.log(3**3)
